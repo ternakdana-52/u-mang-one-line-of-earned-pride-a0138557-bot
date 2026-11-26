@@ -7,9 +7,9 @@ Writes a single line of quiet, earned pride to /output/entry.txt
 import os
 import sys
 
-LINE = ("After six weeks of evening practice, my father stood at the wedding, "
-        "unfolded his shaking hands, and read his whole speech out loud "
-        "without looking down once.")
+LINE = ("At seventy-one, my grandmother taught herself to read, "
+        "so she could finally read aloud the birthday cards her "
+        "grandchildren had been sending her for years.")
 
 
 def main() -> int:

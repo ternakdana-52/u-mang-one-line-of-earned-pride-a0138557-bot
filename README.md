@@ -8,13 +8,13 @@ Entry for the [One Line of Earned Pride](https://make.fun/bounty/u-mang-one-line
 
 ## The line
 
-> After six weeks of evening practice, my father stood at the wedding, unfolded his shaking hands, and read his whole speech out loud without looking down once.
+> At seventy-one, my grandmother taught herself to read, so she could finally read aloud the birthday cards her grandchildren had been sending her for years.
 
-A quiet, earned moment of pride: a father who practised a speech for six weeks finally says it without shaking — the pride lands in the last words, no trophy, no podium, no graduation.
+A quiet, earned moment of pride: a grandmother who taught herself to read at seventy-one, so the birthday cards her grandchildren had sent for years could finally be read aloud — the pride lands in the last words, no trophy, no podium, no graduation.
 
 ## How it works
 
-`main.py` writes exactly that one line (158 characters) to `/output/entry.txt`
+`main.py` writes exactly that one line (155 characters) to `/output/entry.txt`
 (or `$MAKEFUN_OUTPUT_DIR/entry.txt` when set). It validates the line first
 (1–240 characters, UTF-8, single line, non-whitespace, no control characters)
 and verifies the write by reading the file back. Deterministic, no network,
